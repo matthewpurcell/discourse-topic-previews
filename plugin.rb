@@ -4,7 +4,7 @@
 # authors: Angus McLeod
 
 register_asset 'stylesheets/previews_common.scss'
-register_asset 'stylesheets/previews_mobile.scss'
+# register_asset 'stylesheets/previews_mobile.scss'
 
 module TopicListAddon
   def load_topics
